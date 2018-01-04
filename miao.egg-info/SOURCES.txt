@@ -1,3 +1,5 @@
+MANIFEST.in
+README.rst
 setup.py
 miao/__init__.py
 miao.egg-info/PKG-INFO

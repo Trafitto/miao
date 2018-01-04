@@ -6,5 +6,13 @@ Home-page: https://github.com/Trafitto/miao
 Author: trafitto
 Author-email: develop@trafitto.com
 License: MIT
-Description: UNKNOWN
+Description-Content-Type: UNKNOWN
+Description: Miao
+        ------
+        
+        Print a cat, a simple exercise to train me to create python packages
+        
+        To use (with caution), simply do::
+        import miao
+        miao.Meow()
 Platform: UNKNOWN

@@ -1,8 +1,25 @@
 Miao
-------
+=============================
 
 Print a cat, a simple exercise to train me to create python packages
 
-To use (with caution), simply do::
-import miao
-miao.Meow()
+To use::
+
+	pip install miao
+
+	import miao
+	miao.Meow()
+
+	or:
+
+	from miao import Meow
+	Meow()
+
+----
+
+The cat::
+
+	 /\_/\
+	( °Y° )
+	
+----

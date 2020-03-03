@@ -15,6 +15,8 @@ To use::
 	from miao import Meow
 	Meow()
 
+	You can pass the name of the cat Meow("Bob")
+
 ----
 
 The cat::
